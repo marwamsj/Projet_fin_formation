@@ -1,0 +1,105 @@
+.logo {
+  margin-right: 0.5rem;
+  padding-left: 10%;
+}
+.logo a {
+  font-family: "Mukta", sans-serif;
+  font-weight: 700;
+  margin-right: 0.5rem;
+  font-size: xx-large;
+}
+.mr-auto {
+  margin-left: 73%;
+
+  color: #c5c5c5 !important ;
+}
+.mr-auto a {
+  text-decoration: none;
+  color: #c5c5c5 !important ;
+}
+
+.mr-auto a:hover {
+  color: #00c3a5 !important;
+}
+/*
+.dropdown a {
+  color: #c5c5c5 !important ;
+  list-style: none;
+}*/
+#basic-nav-dropdown:hover {
+  color: #00c3a5 !important;
+}
+.dropdown-menu {
+  border: 0 !important;
+  text-decoration: none;
+  background-color: transparent !important;
+}
+.dropdown-item {
+  background-color: #fff !important;
+  padding-top: 10px !important;
+  min-width: 220px;
+  margin-left: -50px;
+  box-shadow: 0 5px 10px 0 #d3cfc9;
+  z-index: 1;
+  border: 0 !important;
+  border-radius: 0;
+}
+
+.dropdown-item:hover {
+  color: #00c3a5 !important;
+  background-color: #f6f8f8 !important;
+}
+.bg-light {
+  position: fixed !important;
+  width: 100%;
+  z-index: 1;
+  top: 0;
+  left: 0;
+}
+.logo-profil {
+  display: flex;
+}
+.logo-profil img {
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+
+}
+.logo-profil p:hover {
+  color: #00c3a5;
+}
+.logo-loggedIn a {
+  min-width: 120px;
+}
+.logo-profil p {
+  font-weight: 400;
+  padding-top: 6px;
+  padding-left: 6px;
+
+}
+.logo-loggedIn {
+  width: 20%;
+  padding-top: 1%;
+}
+.navbar {
+  z-index: 2;
+}
+.navbar-expand-lg {
+  font-weight: 500;
+}
+.mr-auto-admin {
+  color: #c5c5c5 !important;
+}
+
+/*     nav admin*/
+#basic-nav-dropdown a {
+  width: 103% !important;
+}
+
+.dropdown-item-patient a {
+  margin-left: -78%;
+  width: 185px;
+}
+.nav-link {
+  color: #c5c5c5 !important ;
+}

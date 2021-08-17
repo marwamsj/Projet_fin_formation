@@ -1,0 +1,14 @@
+export const GET_NEEDS_LOAD = "GET_NEEDS_LOAD";
+export const GET_NEEDS_SUCCESS = "GET_NEEDS_SUCCESS";
+export const GET_NEEDS_FAIL = "GET_NEEDS_FAIL";
+
+export const GET_NEED_LOAD = "GET_NEED_LOAD";
+export const GET_NEED = "GET_NEED";
+
+export const TOGGLE_TRUE = "TOGGLE_TRUE";
+
+export const CREATE_REVIEW_LOAD = "CREATE_REVIEW_LOAD";
+export const CREATE_REVIEW_SUCCESS = "CREATE_REVIEW_SUCCESS";
+export const CREATE_REVIEW_FAIL = "CREATE_REVIEW_FAIL";
+
+export const ADD_COMMENT = "ADD_COMMENT";

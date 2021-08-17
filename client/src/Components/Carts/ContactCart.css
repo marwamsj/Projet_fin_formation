@@ -1,0 +1,133 @@
+.MuiCard-root {
+  margin-right: 5%;
+  width: 270px;
+  margin-bottom: 5%;
+}
+.MuiPaper-elevation1 {
+  /* box-shadow: 0px 2px 1px -1px rgb(0 0 0 / 20%), 0px 1px 1px 0px rgb(0 0 0 / 14%), 0px 1px 3px 0px rgb(0 0 0 / 12%); */
+
+  box-shadow: 0 5px 10px 0 #d3cfc9 !important;
+}
+.makeStyles-avatar-10 {
+  background-color: #c5c5c5 !important;
+}
+.css-16cvb1l-MuiCardMedia-root {
+  height: 170px !important;
+}
+.css-6hp17o-MuiList-root-MuiMenu-list {
+  width: 100px;
+}
+
+/*CartList*/
+.cartes {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin: 10% 5% 0 9%;
+}
+/*CreateCart*/
+.create_cart {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-around;
+  margin-top: 6%;
+  margin-bottom: 2%;
+}
+.create_cart form {
+  max-width: 500px;
+  width: 100%;
+  margin: 30px 15px;
+  height: 550px;
+}
+.create_cart form .row {
+  width: 100%;
+  margin: 10px 0;
+}
+.create_cart form .row input:hover {
+  border: 2px solid black;
+}
+
+.create_cart form .row textarea:hover {
+  border: 2px solid black;
+}
+.create_cart_button {
+  width: 450px;
+  height: 40px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-weight: 700;
+  margin: 6% 30% 3%;
+  border: 1px solid #ababab;
+}
+.create_cart_button:hover {
+  background-color: #0cb394db;
+  color: #fff;
+}
+.linkcart:hover{
+  text-decoration: none !important;
+  color: #343a40 !important;
+}
+.linkcart{
+  color: #343a40 !important;
+}
+/*createcomment*/
+.createcommentcard {
+  margin-bottom: 17%;
+}
+.createcommentcard_button {
+  float: right;
+  margin-top: -0.5%;
+  border-radius: 5px;
+  border: 1px solid #ababab;
+  padding: 0.5% 1%;
+  color: #4a4747;
+}
+.createcommentcard_button:hover {
+  background-color: #0cb394db;
+  color: #fff !important;
+}
+/*Comment*/
+.commentcard_box {
+  display: flex;
+  margin-bottom: 2%;
+  border: 1px solid #ababab;
+}
+.commentcard_user {
+  width: 17%;
+  padding-right: 1%;
+  padding-top: 1%;
+  padding-left: 1%;
+}
+.commentcard_user > img {
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+}
+.commentcard_body {
+  width: 83%;
+  padding-top: 2%;
+}
+.commentcard_date{
+  display: flex;
+}
+.commentcard_date span time{
+  font-size: x-small;
+  padding-left: 7px;
+}
+.commentcard_delete p {
+  cursor: pointer;
+  font-weight: 600;
+  color: crimson;
+  padding-right: 3px;
+}
+.commentcard_like {
+  color: crimson;
+}
+.fas {
+  color: crimson;
+}
+.commentcard_textOfComment span {
+  margin-left: 4%;
+}

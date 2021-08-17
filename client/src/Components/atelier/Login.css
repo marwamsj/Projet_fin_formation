@@ -1,0 +1,30 @@
+.MuiFormLabel-root.Mui-focused {
+    color: #848282 !important;
+}
+
+.MuiOutlinedInput-notchedOutline{
+border-color:  #00c3a5 !important; 
+}
+.MuiButton-containedPrimary {
+    background-color: #00c3a5 !important;
+}
+a:hover {
+    color: #00c3a5 !important;
+    cursor: pointer;
+}
+.MuiTypography-colorPrimary {
+    color: #848282 !important;
+}
+.MuiContainer-maxWidthXs {
+    max-width: 500px !important;
+}
+.name{
+    display: flex;
+}
+.MuiFormControl-fullWidth {
+    padding-right: 1% !important;
+    padding-left: 1% !important;
+}
+.css-2wjk0v-MuiTypography-root-MuiLink-root{
+    color:  #00c3a5 !important;
+}

@@ -1,0 +1,11 @@
+export const GET_CARTS_LOAD = "GET_CARTS_LOAD";
+export const GET_CARTS_SUCCESS = "GET_CARTS_SUCCESS";
+export const GET_CARTS_FAIL = "GET_CARTS_FAIL";
+
+export const GET_CART_LOAD = "GET_CART_LOAD";
+export const GET_CART = "GET_CART";
+
+export const TOGGLECAT_TRUE = "TOGGLECAT_TRUE";
+
+
+export const ADD_COMMENT_CART = "ADD_COMMENT_CART";

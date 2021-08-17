@@ -1,0 +1,8 @@
+export const GET_CATEGORY_LOAD = "GET_CATEGORY_LOAD";
+export const GET_CATEGORY_SUCCESS = "GET_CATEGORY_SUCCESS";
+export const GET_CATEGORY_FAIL = "GET_CATEGORY_FAIL";
+
+
+export const EDIT_TRUE = "EDIT_TRUE";
+
+export const GET_CATEGORY = "GET_CATEGORY";
